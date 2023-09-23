@@ -20,7 +20,7 @@ const Card = ({ data }) => {
             className="w-24 h-24 mx-auto rounded-full"
           />
         </div>
-        <div className="text-lg text-gray-800 mb-6 text-center">
+        <div className="text-xl text-gray-800 mb-6 text-center">
           <p className="font-bold text-2xl">{data.login}</p>
           <p className="mt-2 text-sm">Name: {data.name || "N/A"}</p>
           <p className="text-sm">Public Repositories: {data.public_repos}</p>
