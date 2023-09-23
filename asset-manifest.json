@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/github-profile-finder-app/static/css/main.d8c57332.css",
+    "main.js": "/github-profile-finder-app/static/js/main.a8e9ceb9.js",
+    "index.html": "/github-profile-finder-app/index.html",
+    "main.d8c57332.css.map": "/github-profile-finder-app/static/css/main.d8c57332.css.map",
+    "main.a8e9ceb9.js.map": "/github-profile-finder-app/static/js/main.a8e9ceb9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d8c57332.css",
+    "static/js/main.a8e9ceb9.js"
+  ]
+}
